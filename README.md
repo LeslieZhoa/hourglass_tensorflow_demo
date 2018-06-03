@@ -1,12 +1,12 @@
 # hourglass_tensorflow_demo
 基于tensorflow的hourglass模型demo
 # 配置要求
-py2 or 3
-tensorflow >=1.2.0
+py2 or 3<br>
+tensorflow >=1.2.0<br>
 opencv>=3.2
 
 # 模型介绍
-通过图像金字塔保证图像信息不丢失
+通过图像金字塔保证图像信息不丢失<br>
 ![](https://github.com/LeslieZhoa/hourglass_tensorflow_demo/blob/master/img/%5BJ%7B5790MF%60XD6KOYL2%7DV%7D6V.png)  
 
 # 参考文献
